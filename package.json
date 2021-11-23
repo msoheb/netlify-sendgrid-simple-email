@@ -1,0 +1,10 @@
+{
+  "name": "netlify-sendgrid-simple-email",
+  "version": "1.0.0",
+  "description": "send email using netlify serverlesss functions and sendgrid",
+  "main": "index.js",
+  "repository": "https://github.com/msoheb/netlify-sendgrid-simple-email.git",
+  "author": "msoheb",
+  "license": "MIT",
+  "private": false
+}
